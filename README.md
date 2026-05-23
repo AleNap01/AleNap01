@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/alessio-napoli](https://www.linkedin.com/in/alessio-napoli-748b5329a/)">
+  <a href="https://www.linkedin.com/in/alessio-napoli-748b5329a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:napolialessio17@gmail.com">
@@ -90,5 +90,6 @@
 Sono disponibile per **collaborazioni, stage e opportunità lavorative** in ambito ML/AI e sviluppo software.
 
 📧 [napolialessio17@gmail.com](mailto:napolialessio17@gmail.com)
-🔗 [linkedin.com/in/alessio-napoli]([https://linkedin.com/in/alessio-napoli](https://www.linkedin.com/in/alessio-napoli-748b5329a/))
+🔗 [linkedin.com/in/alessio-napoli](https://www.linkedin.com/in/alessio-napoli-748b5329a/)
 📍 Salerno, Italia — disponibile anche da remoto
+
