@@ -69,13 +69,6 @@
 
 ---
 
-### 🎵 [Discord Ambient Bot](https://github.com/AleNap01/Discord_Ambient_Bot)
-> Bot Discord per la riproduzione di **suoni ambientali** (libreria, pioggia, camino)
-
-`JavaScript` `Discord.js`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
