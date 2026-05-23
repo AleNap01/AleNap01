@@ -90,5 +90,5 @@
 Sono disponibile per **collaborazioni, stage e opportunità lavorative** in ambito ML/AI e sviluppo software.
 
 📧 [napolialessio17@gmail.com](mailto:napolialessio17@gmail.com)
-🔗 [linkedin.com/in/alessio-napoli](https://linkedin.com/in/alessio-napoli)
+🔗 [linkedin.com/in/alessio-napoli]([https://linkedin.com/in/alessio-napoli](https://www.linkedin.com/in/alessio-napoli-748b5329a/))
 📍 Salerno, Italia — disponibile anche da remoto
